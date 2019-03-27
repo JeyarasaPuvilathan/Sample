@@ -13,6 +13,7 @@ one search box where user can enter name or description and a search button.
 # Technologies
 - ASP.NET MVC
 - AngularJS
+- MySQL
 - HTML
 - CSS
 - Bootstrap
